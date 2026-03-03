@@ -1,0 +1,3 @@
+docker build -t lab01-validator .
+
+docker run --rm -e STUDENT_ID="100400" lab01-validator
