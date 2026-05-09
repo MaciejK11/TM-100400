@@ -22,7 +22,8 @@
 
 ## ⚠️ REKOMENDACJE DLA DEWELOPERA
 1. **Płynność Gestów:** Przy bardzo szybkich gestach swipe (duration < 200ms) UI gubi klatki – zalecana optymalizacja renderowania list.
-2. **Resource Validation:** Należy dodać walidację kluczy w mapie selektorów przed startem testu, aby unikać błędów typu `BŁĄD: Brak klucza` w trakcie egzekucji.
+2. **Resource Validation:** Należy dodać walidację kluczy w mapie selektorów przed startem testu, aby unikać błędów typu `BŁĄD: Brak klucza`
+ w trakcie egzekucji.
 
 **Data audytu:** Np. 23-03-2026
 **Status końcowy:** 🟢 SYSTEM STABILNY
