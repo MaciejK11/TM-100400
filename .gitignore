@@ -12,3 +12,8 @@ node_modules/
 Thumbs.db
 .idea/
 .vscode/
+
+#temp files
+~/*
+*.tmp
+*.temp
